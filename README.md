@@ -1,3 +1,6 @@
+# About
+A simple yet effective way to be reminded of the passage of time (to be specific - an hour).
+
 # Installation
 This simple python program requires one additional dependency (others are usually present in a standard python environment). To install, just run:
 
